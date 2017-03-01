@@ -24,10 +24,7 @@
         var class_prefix_length = options.class_prefix.length
 
         var social = {
-            'vk': vk,
-            'myworld': myworld,
             'linkedin': linkedin,
-            'odnoklassniki': odnoklassniki,
             'pinterest': pinterest,
             'plus': plus,
             'facebook': facebook
